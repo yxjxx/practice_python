@@ -13,7 +13,7 @@ def download_image(image_url):
 
 def main():
     image_url = 'http://imglf2.ph.126.net/kuo9fZNo19Rfc1eUCJ8FkA==/1438055656114889126.jpg'
-    download_image(image_url):
+    download_image(image_url)
 
 if __name__ == '__main__':
     main()
