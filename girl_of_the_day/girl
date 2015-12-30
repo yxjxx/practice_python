@@ -1,0 +1,2 @@
+cd /home/yxj/Dropbox/Pics/girls/
+python girl_of_the_day.py >/dev/null 2>&1
